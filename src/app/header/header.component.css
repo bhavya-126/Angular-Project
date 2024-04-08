@@ -1,0 +1,17 @@
+/* nav li {
+  list-style: none;
+}
+nav.flexbox {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+nav.flexbox .flex-item {
+  margin: 5px 10px;
+} */
+
+button {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
