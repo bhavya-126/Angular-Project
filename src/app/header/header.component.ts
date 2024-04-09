@@ -5,5 +5,6 @@ import { Component } from "@angular/core";
     styleUrls:['header.component.css']
 })
 export class HeaderComponent{
-
+    title:string = 'ToDo';
+    btn:string = 'click here'
 }
